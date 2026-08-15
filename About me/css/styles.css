@@ -42,7 +42,7 @@ title {
 
 /*The second column contains the profile image*/
 .column2-image {
-    background: url('images/my-image2.jpg');
+    background: url('my-image2.jpg');
     background-size: cover;
     background-position: center;
     
