@@ -42,7 +42,7 @@ title {
 
 /*The second column contains the profile image*/
 .column2-image {
-    background: url('C:\\Users\\mohds\\OneDrive\\Documents\\Training\\Web Development - Road to Software Developer\\myfirstWorkspace\\Mini Task 1 week 1\\About me\\images\\my-image2.jpg');
+    background: url('images\\my-image2.jpg');
     background-size: cover;
     background-position: center;
     
